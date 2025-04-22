@@ -2,6 +2,7 @@
 <p align="center">
 Profesional orientado a optimizar operaciones y generar valor a través de la implementación de inteligencia artificial (IA) y herramientas de Business Intelligence (BI). Comprometido con la excelencia operativa, la mejora continua y la calidad en cada proceso. En constante búsqueda de oportunidades para transformar datos en insights accionables que impulsen la eficiencia y la toma de decisiones estratégicas.
 </p>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 # 💻 TECH STACK
