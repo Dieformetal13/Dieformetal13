@@ -20,5 +20,5 @@ Profesional orientado a optimizar operaciones y generar valor a través de la im
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🌐 CONTACTO
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/franco-espinel-3982821aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:espinel.franco@gmail.com) 
+
+(mailto:espinel.franco@gmail.com) 
